@@ -23,7 +23,7 @@
 | ------------- | ------------- |
 
 <!--   GitHub stats graph -->
-![superdev0109's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=superdev0109&hide_border=true&theme=github-light)
+![James's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=snoopydev20&hide_border=true&theme=github-light)
 
 ### My Portfolio:
 
