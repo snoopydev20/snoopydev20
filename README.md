@@ -1,23 +1,10 @@
 ### <h1 align="center">✨⭐⭐ Senior Blockchain & Full Stack developer ⭐⭐✨</h1>
   [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-  <img src="https://komarev.com/ghpvc/?username=superdev0109&label=Profile%20views&color=0e75b6&style=flat" alt="superdev0109" />
+  <img src="https://komarev.com/ghpvc/?username=snoopydev20&label=Profile%20views&color=0e75b6&style=flat" alt="snoopydev20" />
   
   [gmail]: mailto:topblockchaindev@gmail.com
   [telegram]: https://t.me/snoopydev
-  
-  Hi, I'm 🥇[SuperDev](https://t.me/snoopydev/)🥇 , As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
-
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
-
-I have developing sites using PHP, Laravel, WordPress, Codeigniter, and Python/Django/Flask, and much more.
-
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, Angular, and Vue.
-
-I had already built so many Websites with the mentioned skill.
-
-And I have rich experience with YieldFarming and Dex platforms like Pancakeswap Finance, Olympus Dao, SushiSwap, Uniswap, Tomb Finance, Titano .
-
 
  <div>
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
