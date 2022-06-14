@@ -81,6 +81,10 @@
 </p>
 <br/>
 
+  ### Connect with me:
 
-
-
+- 💬 SkypeID : [live:.cid.3e7cb7389fb96c1f]
+- 💬 Telegram : [@snoopydev]
+- 💬 Discord : [Snoopy2020#1251]
+- 💬 Whatsapp : [+1 413 655 1258]
+- 📧 Email : topblockchaindev@gmail.com
