@@ -1,9 +1,9 @@
-### <h1 align="center">Hi 👋, I'm a Professional Blockchain & Full Stack developer.</h1>
+### <h1 align="center">✨⭐⭐ Senior Blockchain & Full Stack developer ⭐⭐✨</h1>
   [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
   <img src="https://komarev.com/ghpvc/?username=superdev0109&label=Profile%20views&color=0e75b6&style=flat" alt="superdev0109" />
   
-  [gmail]: mailto:superdev0109@outlook.com
+  [gmail]: mailto:topblockchaindev@gmail.com
   [telegram]: https://t.me/snoopydev
   
   Hi, I'm 🥇[SuperDev](https://t.me/snoopydev/)🥇 , As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
